@@ -1,0 +1,9 @@
+.container card{
+    width: max-content;
+    height: max-content;
+}
+
+.container card alert row col-sm-3 img{
+    width: 100px;
+    height: 100px;
+}
